@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8+D/x5wvOQ5VgK+/6MMSPA8e4wmAM0VEi2Z0K4rdPtU=",
+  "Source": "ASPcore_WebAPI",
+  "BasePath": "_content/ASPcore_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
