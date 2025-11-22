@@ -60,7 +60,9 @@ END
 # ASP_Core_API
 
 2 . Set CROS To connect API with WEB Application 
+
 //-----------------------------------CORS--------------------------------------------------
+
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 // Configure CORS properly
 builder.Services.AddCors(options =>
