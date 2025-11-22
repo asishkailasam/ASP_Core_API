@@ -58,3 +58,20 @@ BEGIN
         Id = Sp_Id;
 END
 # ASP_Core_API
+
+2 . Set CROS To connect API with WEB Application 
+//-----------------------------------CORS--------------------------------------------------
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+// Configure CORS properly
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:5132")
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
+
