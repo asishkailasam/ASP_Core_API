@@ -77,3 +77,7 @@ builder.Services.AddCors(options =>
 });
 
 
+
+![Image alt](https://github.com/asishkailasam/ASP_Core_API/blob/3007b942ed890db19f214fe32c3b7411dfdcf014/api.png)
+
+
