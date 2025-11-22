@@ -80,4 +80,8 @@ builder.Services.AddCors(options =>
 
 ![Image alt](https://github.com/asishkailasam/ASP_Core_API/blob/3007b942ed890db19f214fe32c3b7411dfdcf014/api.png)
 
+2. URL Get All Item From DB.
+
+![Image alt](https://github.com/asishkailasam/ASP_Core_API/blob/a2988c11c36e7aee215d2b892c0d3de7d8203a47/APIgetALL.png)
+
 
